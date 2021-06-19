@@ -23,5 +23,7 @@ Display the image, using the imshow function. You can also view an image in the 
 
 `imshow(I)`
 
+![lenna_rgb](https://user-images.githubusercontent.com/86122475/122655195-916fd880-d105-11eb-8409-b020d52dce46.png)
+
 
 
